@@ -1,17 +1,18 @@
 # Introduction to Advanced Programming with R
 
-This repository contains notes from STAT 33B: Introduction to Advanced
-Programming with R. I taught the class at UC Berkeley in Fall Semester 2020.
+This repository contains notes from STAT 33B at UC Berkeley in Fall Semester
+2020.
 
-Also see my [teaching notes repository][notes]. For more info, send me an
-email.
+Also see my [general teaching notes repository][notes]. For more info, send me
+an email.
 
 [notes]: https://github.com/nick-ulle/teaching-notes
 
+The syllabus is [here](syllabus.pdf).
 
-## STAT 33B
+## Topic Schedule
 
-[Syllabus](syllabus.pdf) and lecture notes:
+Links go to lecture notes and accompanying workbooks:
 
 | Week | Notes                    | Topics
 | ---: | -----------------------: | ------
@@ -28,7 +29,5 @@ email.
 | 11   | Nov 01                   |
 | 12   | Nov 08                   |
 | 13   | Nov 15                   |
-|      | Nov 22                   |
+|      | Nov 22                   | No lecture (Thanksgiving Break)
 | 14   | Nov 29                   |
-
-_An @berkeley.edu account is required to view the videos._
