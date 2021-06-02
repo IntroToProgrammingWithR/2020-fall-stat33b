@@ -1,0 +1,49 @@
+---
+title: "STAT 33B Prerequisite Exam"
+output: pdf_document
+---
+
+This is an optional exam to help you determine whether you satisfy the
+prerequisites for STAT 33B.
+
+If you are prepared for 33B, you should be able to solve the exercises in this
+exam in under an hour. For exercises that require programming, use whatever
+language you prefer.
+
+
+Exercise 1
+----------
+
+Write a function that converts a temperature in Fahrenheit to a Kelvin. The
+conversion formula is $k = (f - 32)(5 / 9) + 273.15$.
+
+Test your function on at least 3 different temperatures, and use Google to
+confirm that the converted values are correct.
+
+Exercise 2
+----------
+
+The $n$th triangular number is equal to the sum of the $n$ natural numbers from
+1 to $n$. Thus the first 10 triangular numbers are:
+```
+1, 3, 6, 10, 15, 21, 28, 36, 45, 55
+```
+
+Write a function with a parameter $k$ that prints out the first $k$ triangular
+numbers. Test your function for $k = 10$, $k = 50$, and $k = 1000$.
+
+
+Exercise 3
+----------
+
+Fizzbuzz is word game to help children learn about division. Players count off
+numbers, replacing each number divisible by 3 with "fizz", each number
+divisible by 5 with "buzz", and each number divisible by 3 and 5 with
+"fizzbuz".
+
+Thus the fizzbuzz sequence for the first 16 numbers is:
+```
+1, 2, fizz, 4, buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuz, 16
+```
+
+Write a program that prints the fizzbuzz sequence for the first 200 numbers.
